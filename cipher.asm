@@ -1,6 +1,3 @@
-# Ying Zhou 260941617
-# All the implemented procedure have long wait time after running to work
-
 # Menu options
 # r - read text buffer from file 
 # p - print text buffer
