@@ -1,4 +1,4 @@
-# Vigenere-cipher-solver
+# Cipher-solver
 Encrypt and decrypt text using vigenere ciphers. Written in MIPS assembly language. Run I/O console to encrypt and decrypt text using a simple ciphers. 
 
 # Description
@@ -18,7 +18,7 @@ For the string ”UIF RVJDL CSPXO GPY KVNQT PWFS UIF MBAZ EPH”, because the le
 # Getting Started
 
 ## Installing
-Software: MARS, download here: https://www.cs.mcgill.ca/~kry/comp273W21/pMARS.jar
+Software: MARS, download here: https://courses.missouristate.edu/KenVollmar/MARS/download.htm
 
 ## Executing program
 1. Open a terminal
